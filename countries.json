@@ -1,0 +1,2354 @@
+[
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Afghanistan",
+            "web_code": "AF",
+            "country_code": "AFG",
+            "flag": "countries/flags/Afghanistan.svg",
+            "phone_code": "+93",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Albania",
+            "web_code": "AL",
+            "country_code": "ALB",
+            "flag": "countries/flags/Albania.svg",
+            "phone_code": "+355",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Algeria",
+            "web_code": "DZ",
+            "country_code": "DZA",
+            "flag": "countries/flags/Algeria.svg",
+            "phone_code": "+213",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Andorra",
+            "web_code": "AD",
+            "country_code": "AND",
+            "flag": "countries/flags/Andorra.svg",
+            "phone_code": "+376",
+            "is_active": true,
+            "phone_number_length": 6
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Angola",
+            "web_code": "AO",
+            "country_code": "AGO",
+            "flag": "countries/flags/Angola.svg",
+            "phone_code": "+244",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Antigua and Barbuda",
+            "web_code": "AG",
+            "country_code": "ATG",
+            "flag": "countries/flags/Antigua and Barbuda.svg",
+            "phone_code": "+1-268",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Argentina",
+            "web_code": "AR",
+            "country_code": "ARG",
+            "flag": "countries/flags/Argentina.svg",
+            "phone_code": "+54",
+            "is_active": true,
+            "phone_number_length": 6
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Armenia",
+            "web_code": "AM",
+            "country_code": "ARM",
+            "flag": "countries/flags/Armenia.svg",
+            "phone_code": "+374",
+            "is_active": true,
+            "phone_number_length": 6
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Australia",
+            "web_code": "AU",
+            "country_code": "AUS",
+            "flag": "countries/flags/Australia.svg",
+            "phone_code": "+61",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Austria",
+            "web_code": "AT",
+            "country_code": "AUT",
+            "flag": "countries/flags/Austria.svg",
+            "phone_code": "+43",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Azerbaijan",
+            "web_code": "AZ",
+            "country_code": "AZE",
+            "flag": "countries/flags/Azerbaijan.svg",
+            "phone_code": "+994",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Bahamas",
+            "web_code": "BS",
+            "country_code": "BHS",
+            "flag": "countries/flags/Bahamas.svg",
+            "phone_code": "+1-242",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Bahrain",
+            "web_code": "BH",
+            "country_code": "BHR",
+            "flag": "countries/flags/Bahrain.svg",
+            "phone_code": "+973",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Bangladesh",
+            "web_code": "BD",
+            "country_code": "BGD",
+            "flag": "countries/flags/Bangladesh.svg",
+            "phone_code": "+880",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Barbados",
+            "web_code": "BB",
+            "country_code": "BRB",
+            "flag": "countries/flags/Barbados.svg",
+            "phone_code": "+1-246",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Belarus",
+            "web_code": "BY",
+            "country_code": "BLR",
+            "flag": "countries/flags/Belarus.svg",
+            "phone_code": "+375",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Belgium",
+            "web_code": "BE",
+            "country_code": "BEL",
+            "flag": "countries/flags/Belgium.svg",
+            "phone_code": "+32",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Belize",
+            "web_code": "BZ",
+            "country_code": "BLZ",
+            "flag": "countries/flags/Belize.svg",
+            "phone_code": "+501",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Benin",
+            "web_code": "BJ",
+            "country_code": "BEN",
+            "flag": "countries/flags/Benin.svg",
+            "phone_code": "+229",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Bhutan",
+            "web_code": "BT",
+            "country_code": "BTN",
+            "flag": "countries/flags/Bhutan.svg",
+            "phone_code": "+975",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Bolivia",
+            "web_code": "BO",
+            "country_code": "BOL",
+            "flag": "countries/flags/Bolivia.svg",
+            "phone_code": "+591",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Bosnia and Herzegovina",
+            "web_code": "BA",
+            "country_code": "BIH",
+            "flag": "countries/flags/Bosnia and Herzegovina.svg",
+            "phone_code": "+387",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Botswana",
+            "web_code": "BW",
+            "country_code": "BWA",
+            "flag": "countries/flags/Botswana.svg",
+            "phone_code": "+267",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Brazil",
+            "web_code": "BR",
+            "country_code": "BRA",
+            "flag": "countries/flags/Brazil.svg",
+            "phone_code": "+55",
+            "is_active": true,
+            "phone_number_length": 11
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Brunei",
+            "web_code": "BN",
+            "country_code": "BRN",
+            "flag": "countries/flags/Brunei.svg",
+            "phone_code": "+673",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Bulgaria",
+            "web_code": "BG",
+            "country_code": "BGR",
+            "flag": "countries/flags/Bulgaria.svg",
+            "phone_code": "+359",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Burkina Faso",
+            "web_code": "BF",
+            "country_code": "BFA",
+            "flag": "countries/flags/Burkina Faso.svg",
+            "phone_code": "+226",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Burundi",
+            "web_code": "BI",
+            "country_code": "BDI",
+            "flag": "countries/flags/Burundi.svg",
+            "phone_code": "+257",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Cabo Verde",
+            "web_code": "CV",
+            "country_code": "CPV",
+            "flag": "countries/flags/Cabo Verde.svg",
+            "phone_code": "+238",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Cambodia",
+            "web_code": "KH",
+            "country_code": "KHM",
+            "flag": "countries/flags/Cambodia.svg",
+            "phone_code": "+855",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Cameroon",
+            "web_code": "CM",
+            "country_code": "CMR",
+            "flag": "countries/flags/Cameroon.svg",
+            "phone_code": "+237",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Canada",
+            "web_code": "CA",
+            "country_code": "CAN",
+            "flag": "countries/flags/Canada.svg",
+            "phone_code": "+1",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Central African Republic",
+            "web_code": "CF",
+            "country_code": "CAF",
+            "flag": "countries/flags/Central African Republic.svg",
+            "phone_code": "+236",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Chad",
+            "web_code": "TD",
+            "country_code": "TCD",
+            "flag": "countries/flags/Chad.svg",
+            "phone_code": "+235",
+            "is_active": true,
+            "phone_number_length": 6
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Chile",
+            "web_code": "CL",
+            "country_code": "CHL",
+            "flag": "countries/flags/Chile.svg",
+            "phone_code": "+56",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "China",
+            "web_code": "CN",
+            "country_code": "CHN",
+            "flag": "countries/flags/China.svg",
+            "phone_code": "+86",
+            "is_active": true,
+            "phone_number_length": 11
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Colombia",
+            "web_code": "CO",
+            "country_code": "COL",
+            "flag": "countries/flags/Colombia.svg",
+            "phone_code": "+57",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Comoros",
+            "web_code": "KM",
+            "country_code": "COM",
+            "flag": "countries/flags/Comoros.svg",
+            "phone_code": "+269",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Democratic Republic of the Congo",
+            "web_code": "CD",
+            "country_code": "COD",
+            "flag": "countries/flags/Democratic Republic of the Congo.svg",
+            "phone_code": "+243",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Republic of the Congo",
+            "web_code": "CG",
+            "country_code": "COG",
+            "flag": "countries/flags/Republic of the Congo.svg",
+            "phone_code": "+242",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Costa Rica",
+            "web_code": "CR",
+            "country_code": "CRI",
+            "flag": "countries/flags/Costa Rica.svg",
+            "phone_code": "+506",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Croatia",
+            "web_code": "HR",
+            "country_code": "HRV",
+            "flag": "countries/flags/Croatia.svg",
+            "phone_code": "+385",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Cuba",
+            "web_code": "CU",
+            "country_code": "CUB",
+            "flag": "countries/flags/Cuba.svg",
+            "phone_code": "+53",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Cyprus",
+            "web_code": "CY",
+            "country_code": "CYP",
+            "flag": "countries/flags/Cyprus.svg",
+            "phone_code": "+357",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Czech Republic",
+            "web_code": "CZ",
+            "country_code": "CZE",
+            "flag": "countries/flags/Czech Republic.svg",
+            "phone_code": "+420",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Denmark",
+            "web_code": "DK",
+            "country_code": "DNK",
+            "flag": "countries/flags/Denmark.svg",
+            "phone_code": "+45",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Djibouti",
+            "web_code": "DJ",
+            "country_code": "DJI",
+            "flag": "countries/flags/Djibouti.svg",
+            "phone_code": "+253",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Dominica",
+            "web_code": "DM",
+            "country_code": "DMA",
+            "flag": "countries/flags/Dominica.svg",
+            "phone_code": "+1-767",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Dominican Republic",
+            "web_code": "DO",
+            "country_code": "DOM",
+            "flag": "countries/flags/Dominican Republic.svg",
+            "phone_code": "+1-809",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "East Timor",
+            "web_code": "TL",
+            "country_code": "TLS",
+            "flag": "countries/flags/East Timor.svg",
+            "phone_code": "+670",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Ecuador",
+            "web_code": "EC",
+            "country_code": "ECU",
+            "flag": "countries/flags/Ecuador.svg",
+            "phone_code": "+593",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Egypt",
+            "web_code": "EG",
+            "country_code": "EGY",
+            "flag": "countries/flags/Egypt.svg",
+            "phone_code": "+20",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "El Salvador",
+            "web_code": "SV",
+            "country_code": "SLV",
+            "flag": "countries/flags/El Salvador.svg",
+            "phone_code": "+503",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Equatorial Guinea",
+            "web_code": "GQ",
+            "country_code": "GNQ",
+            "flag": "countries/flags/Equatorial Guinea.svg",
+            "phone_code": "+240",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Eritrea",
+            "web_code": "ER",
+            "country_code": "ERI",
+            "flag": "countries/flags/Eritrea.svg",
+            "phone_code": "+291",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Estonia",
+            "web_code": "EE",
+            "country_code": "EST",
+            "flag": "countries/flags/Estonia.svg",
+            "phone_code": "+372",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Eswatini",
+            "web_code": "SZ",
+            "country_code": "SWZ",
+            "flag": "countries/flags/Eswatini.svg",
+            "phone_code": "+268",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Ethiopia",
+            "web_code": "ET",
+            "country_code": "ETH",
+            "flag": "countries/flags/Ethiopia.svg",
+            "phone_code": "+251",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Fiji",
+            "web_code": "FJ",
+            "country_code": "FJI",
+            "flag": "countries/flags/Fiji.svg",
+            "phone_code": "+679",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Finland",
+            "web_code": "FI",
+            "country_code": "FIN",
+            "flag": "countries/flags/Finland.svg",
+            "phone_code": "+358",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "France",
+            "web_code": "FR",
+            "country_code": "FRA",
+            "flag": "countries/flags/France.svg",
+            "phone_code": "+33",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Gabon",
+            "web_code": "GA",
+            "country_code": "GAB",
+            "flag": "countries/flags/Gabon.svg",
+            "phone_code": "+241",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Gambia",
+            "web_code": "GM",
+            "country_code": "GMB",
+            "flag": "countries/flags/Gambia.svg",
+            "phone_code": "+220",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Georgia",
+            "web_code": "GE",
+            "country_code": "GEO",
+            "flag": "countries/flags/Georgia.svg",
+            "phone_code": "+995",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Germany",
+            "web_code": "DE",
+            "country_code": "DEU",
+            "flag": "countries/flags/Germany.svg",
+            "phone_code": "+49",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Ghana",
+            "web_code": "GH",
+            "country_code": "GHA",
+            "flag": "countries/flags/Ghana.svg",
+            "phone_code": "+233",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Greece",
+            "web_code": "GR",
+            "country_code": "GRC",
+            "flag": "countries/flags/Greece.svg",
+            "phone_code": "+30",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Grenada",
+            "web_code": "GD",
+            "country_code": "GRD",
+            "flag": "countries/flags/Grenada.svg",
+            "phone_code": "+1-473",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Guatemala",
+            "web_code": "GT",
+            "country_code": "GTM",
+            "flag": "countries/flags/Guatemala.svg",
+            "phone_code": "+502",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Guinea",
+            "web_code": "GN",
+            "country_code": "GIN",
+            "flag": "countries/flags/Guinea.svg",
+            "phone_code": "+224",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Guinea-Bissau",
+            "web_code": "GW",
+            "country_code": "GNB",
+            "flag": "countries/flags/Guinea-Bissau.svg",
+            "phone_code": "+245",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Guyana",
+            "web_code": "GY",
+            "country_code": "GUY",
+            "flag": "countries/flags/Guyana.svg",
+            "phone_code": "+592",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Haiti",
+            "web_code": "HT",
+            "country_code": "HTI",
+            "flag": "countries/flags/Haiti.svg",
+            "phone_code": "+509",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Honduras",
+            "web_code": "HN",
+            "country_code": "HND",
+            "flag": "countries/flags/Honduras.svg",
+            "phone_code": "+504",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Hungary",
+            "web_code": "HU",
+            "country_code": "HUN",
+            "flag": "countries/flags/Hungary.svg",
+            "phone_code": "+36",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Iceland",
+            "web_code": "IS",
+            "country_code": "ISL",
+            "flag": "countries/flags/Iceland.svg",
+            "phone_code": "+354",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "India",
+            "web_code": "IN",
+            "country_code": "IND",
+            "flag": "countries/flags/India.svg",
+            "phone_code": "+91",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Indonesia",
+            "web_code": "ID",
+            "country_code": "IDN",
+            "flag": "countries/flags/Indonesia.svg",
+            "phone_code": "+62",
+            "is_active": true,
+            "phone_number_length": 11
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Iran",
+            "web_code": "IR",
+            "country_code": "IRN",
+            "flag": "countries/flags/Iran.svg",
+            "phone_code": "+98",
+            "is_active": true,
+            "phone_number_length": 11
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Iraq",
+            "web_code": "IQ",
+            "country_code": "IRQ",
+            "flag": "countries/flags/Iraq.svg",
+            "phone_code": "+964",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Ireland",
+            "web_code": "IE",
+            "country_code": "IRL",
+            "flag": "countries/flags/Ireland.svg",
+            "phone_code": "+353",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Israel",
+            "web_code": "IL",
+            "country_code": "ISR",
+            "flag": "countries/flags/Israel.svg",
+            "phone_code": "+972",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Italy",
+            "web_code": "IT",
+            "country_code": "ITA",
+            "flag": "countries/flags/Italy.svg",
+            "phone_code": "+39",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Côte d'Ivoire",
+            "web_code": "CI",
+            "country_code": "CIV",
+            "flag": "countries/flags/Côte d'Ivoire.svg",
+            "phone_code": "+225",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Jamaica",
+            "web_code": "JM",
+            "country_code": "JAM",
+            "flag": "countries/flags/Jamaica.svg",
+            "phone_code": "+1-876",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Japan",
+            "web_code": "JP",
+            "country_code": "JPN",
+            "flag": "countries/flags/Japan.svg",
+            "phone_code": "+81",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Jordan",
+            "web_code": "JO",
+            "country_code": "JOR",
+            "flag": "countries/flags/Jordan.svg",
+            "phone_code": "+962",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Kazakhstan",
+            "web_code": "KZ",
+            "country_code": "KAZ",
+            "flag": "countries/flags/Kazakhstan.svg",
+            "phone_code": "+7",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Kenya",
+            "web_code": "KE",
+            "country_code": "KEN",
+            "flag": "countries/flags/Kenya.svg",
+            "phone_code": "+254",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Kiribati",
+            "web_code": "KI",
+            "country_code": "KIR",
+            "flag": "countries/flags/Kiribati.svg",
+            "phone_code": "+686",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "North Korea",
+            "web_code": "KP",
+            "country_code": "PRK",
+            "flag": "countries/flags/North Korea.svg",
+            "phone_code": "+850",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "South Korea",
+            "web_code": "KR",
+            "country_code": "KOR",
+            "flag": "countries/flags/South Korea.svg",
+            "phone_code": "+82",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Kosovo",
+            "web_code": "XK",
+            "country_code": "XKX",
+            "flag": "countries/flags/Kosovo.svg",
+            "phone_code": "+383",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Kuwait",
+            "web_code": "KW",
+            "country_code": "KWT",
+            "flag": "countries/flags/Kuwait.svg",
+            "phone_code": "+965",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Kyrgyzstan",
+            "web_code": "KG",
+            "country_code": "KGZ",
+            "flag": "countries/flags/Kyrgyzstan.svg",
+            "phone_code": "+996",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Laos",
+            "web_code": "LA",
+            "country_code": "LAO",
+            "flag": "countries/flags/Laos.svg",
+            "phone_code": "+856",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Latvia",
+            "web_code": "LV",
+            "country_code": "LVA",
+            "flag": "countries/flags/Latvia.svg",
+            "phone_code": "+371",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Lebanon",
+            "web_code": "LB",
+            "country_code": "LBN",
+            "flag": "countries/flags/Lebanon.svg",
+            "phone_code": "+961",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Lesotho",
+            "web_code": "LS",
+            "country_code": "LSO",
+            "flag": "countries/flags/Lesotho.svg",
+            "phone_code": "+266",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Liberia",
+            "web_code": "LR",
+            "country_code": "LBR",
+            "flag": "countries/flags/Liberia.svg",
+            "phone_code": "+231",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Libya",
+            "web_code": "LY",
+            "country_code": "LBY",
+            "flag": "countries/flags/Libya.svg",
+            "phone_code": "+218",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Liechtenstein",
+            "web_code": "LI",
+            "country_code": "LIE",
+            "flag": "countries/flags/Liechtenstein.svg",
+            "phone_code": "+423",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Lithuania",
+            "web_code": "LT",
+            "country_code": "LTU",
+            "flag": "countries/flags/Lithuania.svg",
+            "phone_code": "+370",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Luxembourg",
+            "web_code": "LU",
+            "country_code": "LUX",
+            "flag": "countries/flags/Luxembourg.svg",
+            "phone_code": "+352",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Madagascar",
+            "web_code": "MG",
+            "country_code": "MDG",
+            "flag": "countries/flags/Madagascar.svg",
+            "phone_code": "+261",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Malawi",
+            "web_code": "MW",
+            "country_code": "MWI",
+            "flag": "countries/flags/Malawi.svg",
+            "phone_code": "+265",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Malaysia",
+            "web_code": "MY",
+            "country_code": "MYS",
+            "flag": "countries/flags/Malaysia.svg",
+            "phone_code": "+60",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Maldives",
+            "web_code": "MV",
+            "country_code": "MDV",
+            "flag": "countries/flags/Maldives.svg",
+            "phone_code": "+960",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Mali",
+            "web_code": "ML",
+            "country_code": "MLI",
+            "flag": "countries/flags/Mali.svg",
+            "phone_code": "+223",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Malta",
+            "web_code": "MT",
+            "country_code": "MLT",
+            "flag": "countries/flags/Malta.svg",
+            "phone_code": "+356",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Marshall Islands",
+            "web_code": "MH",
+            "country_code": "MHL",
+            "flag": "countries/flags/Marshall Islands.svg",
+            "phone_code": "+692",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Mauritania",
+            "web_code": "MR",
+            "country_code": "MRT",
+            "flag": "countries/flags/Mauritania.svg",
+            "phone_code": "+222",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Mauritius",
+            "web_code": "MU",
+            "country_code": "MUS",
+            "flag": "countries/flags/Mauritius.svg",
+            "phone_code": "+230",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Mexico",
+            "web_code": "MX",
+            "country_code": "MEX",
+            "flag": "countries/flags/Mexico.svg",
+            "phone_code": "+52",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Micronesia",
+            "web_code": "FM",
+            "country_code": "FSM",
+            "flag": "countries/flags/Micronesia.svg",
+            "phone_code": "+691",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Moldova",
+            "web_code": "MD",
+            "country_code": "MDA",
+            "flag": "countries/flags/Moldova.svg",
+            "phone_code": "+373",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Monaco",
+            "web_code": "MC",
+            "country_code": "MCO",
+            "flag": "countries/flags/Monaco.svg",
+            "phone_code": "+377",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Mongolia",
+            "web_code": "MN",
+            "country_code": "MNG",
+            "flag": "countries/flags/Mongolia.svg",
+            "phone_code": "+976",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Montenegro",
+            "web_code": "ME",
+            "country_code": "MNE",
+            "flag": "countries/flags/Montenegro.svg",
+            "phone_code": "+382",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Morocco",
+            "web_code": "MA",
+            "country_code": "MAR",
+            "flag": "countries/flags/Morocco.svg",
+            "phone_code": "+212",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Mozambique",
+            "web_code": "MZ",
+            "country_code": "MOZ",
+            "flag": "countries/flags/Mozambique.svg",
+            "phone_code": "+258",
+            "is_active": true,
+            "phone_number_length": 12
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Myanmar",
+            "web_code": "MM",
+            "country_code": "MMR",
+            "flag": "countries/flags/Myanmar.svg",
+            "phone_code": "+95",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Namibia",
+            "web_code": "NA",
+            "country_code": "NAM",
+            "flag": "countries/flags/Namibia.svg",
+            "phone_code": "+264",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Nauru",
+            "web_code": "NR",
+            "country_code": "NRU",
+            "flag": "countries/flags/Nauru.svg",
+            "phone_code": "+674",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Nepal",
+            "web_code": "NP",
+            "country_code": "NPL",
+            "flag": "countries/flags/Nepal.svg",
+            "phone_code": "+977",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Netherlands",
+            "web_code": "NL",
+            "country_code": "NLD",
+            "flag": "countries/flags/Netherlands.svg",
+            "phone_code": "+31",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "New Zealand",
+            "web_code": "NZ",
+            "country_code": "NZL",
+            "flag": "countries/flags/New Zealand.svg",
+            "phone_code": "+64",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Nicaragua",
+            "web_code": "NI",
+            "country_code": "NIC",
+            "flag": "countries/flags/Nicaragua.svg",
+            "phone_code": "+505",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Niger",
+            "web_code": "NE",
+            "country_code": "NER",
+            "flag": "countries/flags/Niger.svg",
+            "phone_code": "+227",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Nigeria",
+            "web_code": "NG",
+            "country_code": "NGA",
+            "flag": "countries/flags/Nigeria.svg",
+            "phone_code": "+234",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "North Macedonia",
+            "web_code": "MK",
+            "country_code": "MKD",
+            "flag": "countries/flags/North Macedonia.svg",
+            "phone_code": "+389",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Norway",
+            "web_code": "NO",
+            "country_code": "NOR",
+            "flag": "countries/flags/Norway.svg",
+            "phone_code": "+47",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Oman",
+            "web_code": "OM",
+            "country_code": "OMN",
+            "flag": "countries/flags/Oman.svg",
+            "phone_code": "+968",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Pakistan",
+            "web_code": "PK",
+            "country_code": "PAK",
+            "flag": "countries/flags/Pakistan.svg",
+            "phone_code": "+92",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Palau",
+            "web_code": "PW",
+            "country_code": "PLW",
+            "flag": "countries/flags/Palau.svg",
+            "phone_code": "+680",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Panama",
+            "web_code": "PA",
+            "country_code": "PAN",
+            "flag": "countries/flags/Panama.svg",
+            "phone_code": "+507",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Papua New Guinea",
+            "web_code": "PG",
+            "country_code": "svg",
+            "flag": "countries/flags/Papua New Guinea.svg",
+            "phone_code": "+675",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Paraguay",
+            "web_code": "PY",
+            "country_code": "PRY",
+            "flag": "countries/flags/Paraguay.svg",
+            "phone_code": "+595",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Peru",
+            "web_code": "PE",
+            "country_code": "PER",
+            "flag": "countries/flags/Peru.svg",
+            "phone_code": "+51",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Philippines",
+            "web_code": "PH",
+            "country_code": "PHL",
+            "flag": "countries/flags/Philippines.svg",
+            "phone_code": "+63",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Poland",
+            "web_code": "PL",
+            "country_code": "POL",
+            "flag": "countries/flags/Poland.svg",
+            "phone_code": "+48",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Portugal",
+            "web_code": "PT",
+            "country_code": "PRT",
+            "flag": "countries/flags/Portugal.svg",
+            "phone_code": "+351",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Qatar",
+            "web_code": "QA",
+            "country_code": "QAT",
+            "flag": "countries/flags/Qatar.svg",
+            "phone_code": "+974",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Romania",
+            "web_code": "RO",
+            "country_code": "ROU",
+            "flag": "countries/flags/Romania.svg",
+            "phone_code": "+40",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Russia",
+            "web_code": "RU",
+            "country_code": "RUS",
+            "flag": "countries/flags/Russia.svg",
+            "phone_code": "+7",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Rwanda",
+            "web_code": "RW",
+            "country_code": "RWA",
+            "flag": "countries/flags/Rwanda.svg",
+            "phone_code": "+250",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Saint Kitts and Nevis",
+            "web_code": "KN",
+            "country_code": "KNA",
+            "flag": "countries/flags/Saint Kitts and Nevis.svg",
+            "phone_code": "+1-869",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Saint Lucia",
+            "web_code": "LC",
+            "country_code": "LCA",
+            "flag": "countries/flags/Saint Lucia.svg",
+            "phone_code": "+1-758",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Saint Vincent and the Grenadines",
+            "web_code": "VC",
+            "country_code": "VCT",
+            "flag": "countries/flags/Saint Vincent and the Grenadines.svg",
+            "phone_code": "+1-784",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Samoa",
+            "web_code": "WS",
+            "country_code": "WSM",
+            "flag": "countries/flags/Samoa.svg",
+            "phone_code": "+685",
+            "is_active": true,
+            "phone_number_length": 5
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "San Marino",
+            "web_code": "SM",
+            "country_code": "SMR",
+            "flag": "countries/flags/San Marino.svg",
+            "phone_code": "+378",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Sao Tome and Principe",
+            "web_code": "ST",
+            "country_code": "STP",
+            "flag": "countries/flags/Sao Tome and Principe.svg",
+            "phone_code": "+239",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Saudi Arabia",
+            "web_code": "SA",
+            "country_code": "SAU",
+            "flag": "countries/flags/Saudi Arabia.svg",
+            "phone_code": "+966",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Senegal",
+            "web_code": "SN",
+            "country_code": "SEN",
+            "flag": "countries/flags/Senegal.svg",
+            "phone_code": "+221",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Serbia",
+            "web_code": "RS",
+            "country_code": "SRB",
+            "flag": "countries/flags/Serbia.svg",
+            "phone_code": "+381",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Seychelles",
+            "web_code": "SC",
+            "country_code": "SYC",
+            "flag": "countries/flags/Seychelles.svg",
+            "phone_code": "+248",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Sierra Leone",
+            "web_code": "SL",
+            "country_code": "SLE",
+            "flag": "countries/flags/Sierra Leone.svg",
+            "phone_code": "+232",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Singapore",
+            "web_code": "SG",
+            "country_code": "SGP",
+            "flag": "countries/flags/Singapore.svg",
+            "phone_code": "+65",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Slovakia",
+            "web_code": "SK",
+            "country_code": "SVK",
+            "flag": "countries/flags/Slovakia.svg",
+            "phone_code": "+421",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Slovenia",
+            "web_code": "SI",
+            "country_code": "SVN",
+            "flag": "countries/flags/Slovenia.svg",
+            "phone_code": "+386",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Solomon Islands",
+            "web_code": "SB",
+            "country_code": "SLB",
+            "flag": "countries/flags/Solomon Islands.svg",
+            "phone_code": "+677",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Somalia",
+            "web_code": "SO",
+            "country_code": "SOM",
+            "flag": "countries/flags/Somalia.svg",
+            "phone_code": "+252",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "South Africa",
+            "web_code": "ZA",
+            "country_code": "ZAF",
+            "flag": "countries/flags/South Africa.svg",
+            "phone_code": "+27",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "South Sudan",
+            "web_code": "SS",
+            "country_code": "SSD",
+            "flag": "countries/flags/South Sudan.svg",
+            "phone_code": "+211",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Spain",
+            "web_code": "ES",
+            "country_code": "ESP",
+            "flag": "countries/flags/Spain.svg",
+            "phone_code": "+34",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Sri Lanka",
+            "web_code": "LK",
+            "country_code": "LKA",
+            "flag": "countries/flags/Sri Lanka.svg",
+            "phone_code": "+94",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Sudan",
+            "web_code": "SD",
+            "country_code": "SDN",
+            "flag": "countries/flags/Sudan.svg",
+            "phone_code": "+249",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Suriname",
+            "web_code": "SR",
+            "country_code": "SUR",
+            "flag": "countries/flags/Suriname.svg",
+            "phone_code": "+597",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Sweden",
+            "web_code": "SE",
+            "country_code": "SWE",
+            "flag": "countries/flags/Sweden.svg",
+            "phone_code": "+46",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Switzerland",
+            "web_code": "CH",
+            "country_code": "CHE",
+            "flag": "countries/flags/Switzerland.svg",
+            "phone_code": "+41",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Syria",
+            "web_code": "SY",
+            "country_code": "SYR",
+            "flag": "countries/flags/Syria.svg",
+            "phone_code": "+963",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Taiwan",
+            "web_code": "TW",
+            "country_code": "TWN",
+            "flag": "countries/flags/Taiwan.svg",
+            "phone_code": "+886",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Tajikistan",
+            "web_code": "TJ",
+            "country_code": "TJK",
+            "flag": "countries/flags/Tajikistan.svg",
+            "phone_code": "+992",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Tanzania",
+            "web_code": "TZ",
+            "country_code": "TZA",
+            "flag": "countries/flags/Tanzania.svg",
+            "phone_code": "+255",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Thailand",
+            "web_code": "TH",
+            "country_code": "THA",
+            "flag": "countries/flags/Thailand.svg",
+            "phone_code": "+66",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Togo",
+            "web_code": "TG",
+            "country_code": "TGO",
+            "flag": "countries/flags/Togo.svg",
+            "phone_code": "+228",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Tonga",
+            "web_code": "TO",
+            "country_code": "TON",
+            "flag": "countries/flags/Tonga.svg",
+            "phone_code": "+676",
+            "is_active": true,
+            "phone_number_length": 5
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Trinidad and Tobago",
+            "web_code": "TT",
+            "country_code": "TTO",
+            "flag": "countries/flags/Trinidad and Tobago.svg",
+            "phone_code": "+1-868",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Tunisia",
+            "web_code": "TN",
+            "country_code": "TUN",
+            "flag": "countries/flags/Tunisia.svg",
+            "phone_code": "+216",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Turkey",
+            "web_code": "TR",
+            "country_code": "TUR",
+            "flag": "countries/flags/Turkey.svg",
+            "phone_code": "+90",
+            "is_active": true,
+            "phone_number_length": 11
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Turkmenistan",
+            "web_code": "TM",
+            "country_code": "TKM",
+            "flag": "countries/flags/Turkmenistan.svg",
+            "phone_code": "+993",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Tuvalu",
+            "web_code": "TV",
+            "country_code": "TUV",
+            "flag": "countries/flags/Tuvalu.svg",
+            "phone_code": "+688",
+            "is_active": true,
+            "phone_number_length": 5
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Uganda",
+            "web_code": "UG",
+            "country_code": "UGA",
+            "flag": "countries/flags/Uganda.svg",
+            "phone_code": "+256",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Ukraine",
+            "web_code": "UA",
+            "country_code": "UKR",
+            "flag": "countries/flags/Ukraine.svg",
+            "phone_code": "+380",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "United Arab Emirates",
+            "web_code": "AE",
+            "country_code": "ARE",
+            "flag": "countries/flags/United Arab Emirates.svg",
+            "phone_code": "+971",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "United Kingdom",
+            "web_code": "GB",
+            "country_code": "GBR",
+            "flag": "countries/flags/United Kingdom.svg",
+            "phone_code": "+44",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "United States",
+            "web_code": "US",
+            "country_code": "USA",
+            "flag": "countries/flags/United States.svg",
+            "phone_code": "+1",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Uruguay",
+            "web_code": "UY",
+            "country_code": "URY",
+            "flag": "countries/flags/Uruguay.svg",
+            "phone_code": "+598",
+            "is_active": true,
+            "phone_number_length": 8
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Uzbekistan",
+            "web_code": "UZ",
+            "country_code": "UZB",
+            "flag": "countries/flags/Uzbekistan.svg",
+            "phone_code": "+998",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Vanuatu",
+            "web_code": "VU",
+            "country_code": "VUT",
+            "flag": "countries/flags/Vanuatu.svg",
+            "phone_code": "+678",
+            "is_active": true,
+            "phone_number_length": 5
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Vatican City",
+            "web_code": "VA",
+            "country_code": "VAT",
+            "flag": "countries/flags/Vatican City.svg",
+            "phone_code": "+379",
+            "is_active": true,
+            "phone_number_length": 10
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Venezuela",
+            "web_code": "VE",
+            "country_code": "VEN",
+            "flag": "countries/flags/Venezuela.svg",
+            "phone_code": "+58",
+            "is_active": true,
+            "phone_number_length": 7
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Vietnam",
+            "web_code": "VN",
+            "country_code": "VNM",
+            "flag": "countries/flags/Vietnam.svg",
+            "phone_code": "+84",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Yemen",
+            "web_code": "YE",
+            "country_code": "YEM",
+            "flag": "countries/flags/Yemen.svg",
+            "phone_code": "+967",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Zambia",
+            "web_code": "ZM",
+            "country_code": "ZMB",
+            "flag": "countries/flags/Zambia.svg",
+            "phone_code": "+260",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    },
+    {
+        "model": "general.country",
+        "fields": {
+            "name": "Zimbabwe",
+            "web_code": "ZW",
+            "country_code": "ZWE",
+            "flag": "countries/flags/Zimbabwe.svg",
+            "phone_code": "+263",
+            "is_active": true,
+            "phone_number_length": 9
+        }
+    }
+]
